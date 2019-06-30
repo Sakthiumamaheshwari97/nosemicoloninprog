@@ -1,0 +1,2 @@
+yup=input()
+print(yup)
